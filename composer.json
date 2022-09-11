@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/mediawiki-ext-quote",
+  "name": "zmarket/mediawiki-ext-quote",
   "type": "mediawiki-extension",
   "description": "MediaWiki quote extension.",
   "license": "MIT",
@@ -23,13 +23,13 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/mediawiki-ext-quote/issues",
-    "source": "https://github.com/cmfstore/mediawiki-ext-quote"
+    "issues": "https://github.com/zbox/mediawiki-ext-quote/issues",
+    "source": "https://github.com/zbox/mediawiki-ext-quote"
   },
   "require": {
     "php": ">=7.2",
     "composer/installers": "^1.0.1",
-    "cmfstore/mediawiki-ext-kernel": "*"
+    "zmarket/mediawiki-ext-kernel": "*"
   },
   "autoload": {
     "classmap": [
